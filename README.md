@@ -24,13 +24,16 @@ Kishhan Bazar is a full-stack MERN web application designed to bridge the gap be
 - Direct communication between farmers and consumers
 - Scalable MERN architecture
 
----
+## 📁 Project Structure
+
+```text
 Kishhan Bazar/
-│── client/        # React frontend
-│── server/        # Node.js & Express backend
-│── .gitignore
-│── README.md
-│── package.json
+├── client/        # React frontend
+├── server/        # Node.js & Express backend
+├── .gitignore
+├── README.md
+└── package.json
+
 
 
 
@@ -43,4 +46,5 @@ Kishhan Bazar/
 ```bash
 git clone https://github.com/krishna7888/Kishhan-Bazar.git
 cd Kishhan-Bazar
+
 
