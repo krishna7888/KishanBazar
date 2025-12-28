@@ -35,10 +35,8 @@ Kishhan Bazar/
 └── package.json
 
 
+```
 
-
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -46,5 +44,6 @@ Kishhan Bazar/
 ```bash
 git clone https://github.com/krishna7888/Kishhan-Bazar.git
 cd Kishhan-Bazar
+
 
 
